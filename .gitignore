@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# dependencies / logs
+node_modules/
+npm-debug.log*
+*.log
+
+# local build/QA output
+out/
+.tmp/
